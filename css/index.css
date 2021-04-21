@@ -3,4 +3,12 @@ body {
   color: #ffffff;
 }
 
+header {
+  margin-bottom: 75px;
+}
+
+.slide-img {
+  width: 50%;
+}
+
 /*# sourceMappingURL=index.css.map */
