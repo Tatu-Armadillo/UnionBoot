@@ -4,11 +4,11 @@ $red: #ff0000;
 $green: #00ff00;
 $blue: #0000ff;
 
-
-body{
+body {
+    scroll-behavior: smooth;
     background-color: $black;
     color: $white;
-}
+  }
 
 header {
     margin-bottom: 75px;
@@ -19,3 +19,10 @@ header {
     width: 50%;
 }
 
+.background-black {
+    background-color: $black;
+}
+
+.img-capa {
+    margin: 5px;
+}

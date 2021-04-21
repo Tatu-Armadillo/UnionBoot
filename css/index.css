@@ -1,4 +1,5 @@
 body {
+  scroll-behavior: smooth;
   background-color: #000000;
   color: #ffffff;
 }
@@ -9,6 +10,14 @@ header {
 
 .slide-img {
   width: 50%;
+}
+
+.background-black {
+  background-color: #000000;
+}
+
+.img-capa {
+  margin: 5px;
 }
 
 /*# sourceMappingURL=index.css.map */
